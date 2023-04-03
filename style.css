@@ -1,0 +1,45 @@
+h3 {
+   background-color: rgb(217, 28, 255);
+   width: 100%;
+   color:deepskyblue;
+   font-weight: bold;
+   font-size: 30px;
+   margin: 0;
+   letter-spacing: 3px;
+   height: 80px;
+   padding-top: 5px;
+   border: 1px solid black;
+   border-bottom-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+   box-shadow: 5px 5px 50px rgb(33, 33, 255);
+}
+
+span {
+   color: black;
+   font-size: 16px !important;
+   font-weight: bold;
+   letter-spacing: 0px !important;
+}
+
+body {
+   background-size: cover;
+}
+
+#songName {
+   background-color: rgb(255, 21, 204);
+   width: 440px;
+   height: 50px;
+   padding: 10px 5px 5px 10px;
+   color:rgb(0, 0, 0);
+   font-weight: bold;
+   font-size: 20px;
+   text-align: left;
+   border: 2px solid black;
+   border-radius: 25px;
+}
+
+canvas {
+   border: 1px solid black;
+   border-radius: 15px;
+   background-color: mediumslateblue;
+}
